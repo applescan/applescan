@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @applescan
-- 👀 I Specialize in Website Design & Development, Graphic Design and Visual Content Creation
+- 👀 I Specialize in Website Design, Graphic Design and Visual Content Creation
 - 🌱 I’m currently learning Front End Web Development
 
 
