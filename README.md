@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **feliu.ren@gmail.com**
 
-- 📄 Know about my experiences <a href="https://felicia-portfolio.netlify.app/" target="blank">On my portfolio</a>
+- 📄 Know about my experiences <a href="https://felicia-portfolio.netlify.app/" target="blank">on my portfolio</a>
 <br/>
 
 
