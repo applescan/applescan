@@ -7,9 +7,9 @@
 </a>
 <br/>
 
-- 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
+- 🔭 I’m currently working for <a href="https://www.datainsight.co.nz/" target="blank">Data Insight</a>
 
-- 🌱 I’m currently learning Full Stack Web Development
+- 🌱 I am passionate about learning Full Stack Web Development
 
 - 💁 I love to work on problem-solving together with the combination of design thinking and software development. 
 
