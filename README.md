@@ -6,6 +6,7 @@
   <img align="right" top="500" height="300" width="400" alt="Dev Card" src="https://github.com/applescan/applescan/blob/main/devcard.svg">
 </a>
 <br/>
+<br/>
 
 - 🔭 I’m currently working for <a href="https://www.datainsight.co.nz/" target="blank">Data Insight</a>
 
