@@ -3,10 +3,8 @@
 
 <br/><br/>
 <a target="_blank" align="center">
-  <img align="right" top="500" bottom="500" height="300" width="400" alt="Dev Card" src="https://github.com/applescan/applescan/blob/main/devcard.svg">
+  <img align="left" top="500" bottom="500" height="300" width="400" alt="Dev Card" src="https://github.com/applescan/applescan/blob/main/devcard.svg">
 </a>
-<br/>
-<br/>
 
 - 🔭 I’m currently working for <a href="https://www.datainsight.co.nz/" target="blank">Data Insight</a>
 
