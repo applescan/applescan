@@ -1,26 +1,20 @@
 <h1 align="center">Hi 👋, I'm Felicia</a></h1>
-<h3 align="center">I Specialize in Website Design, Graphic Design and Visual Content Creation</h3>
+<h3 align="center">I'm a versatile software engineer with a wide range of skills and a passion for crafting exceptional web applications. I have expertise in JavaScript, React, Node.js, SQL, Next.js, TypeScript, and Prisma.</h3>
 
-<br/><br/>
-<a target="_blank" align="center">
-  <img align="left" top="500" bottom="500" height="300" width="400" alt="Dev Card" src="https://github.com/applescan/applescan/blob/main/devcard.svg">
-</a>
-
-- 🔭 I’m currently working for <a href="https://www.datainsight.co.nz/" target="blank">Data Insight</a>
-
-- 🌱 I am passionate about learning Full Stack Web Development
-
-- 💁 I love to work on problem-solving together with the combination of design thinking and software development. 
-
-- ✔️ I hope with my skills and experience I can simplify the communication barriers by bridging the gap between designers and developers and creating an excellent product for end-users.
-
-- 🎯 I want to do a design that considers the user’s goals and provides the simplest way to achieve those goals!
-
-- 🎓  At the moment I just finished my qualification in Software Development with Auckland University of Technology, my reason for learning software development is so that I am able to understand designing from the software developer's perspective. Combined with my programme at UX Design Institue & Glasgow Caledonian University, I will be able to further the knowledge that I got from my software development qualification and apply it to human-centred design. 
-
-- 📫 How to reach me **feliu.ren@gmail.com**
-
-- 📄 Know about my experiences <a href="https://felicia-portfolio.netlify.app/" target="blank">on my portfolio</a>
 <br/>
+
+- 🔭 I’m currently working for <a href="https://generatezero.com/" target="blank">Generate Zero</a> where I get to put all my software engineering skills to the test and help drive innovation.
+
+- 🌱 As a tech enthusiast, I'm always ready to learn more! I have a special spot in my heart for Full Stack Web Development, and I am continually finding ways to grow in this area.
+
+- 💁 I find it super rewarding to solve complex problems and love combining design thinking with software development. It's like piecing together a puzzle, and I adore it! 
+
+- ✅ I believe my strengths can help make our tech world a friendlier place. I'm keen on smoothing out the communication bumps between designers and developers, and I can't wait to create fantastic products that the end-users will love.
+
+- 🎯 When it comes to design, I always put myself in the user's shoes. I want to understand their needs and find the most straightforward way to help them reach their goals.
+
+- 📫 If you want to chat or need more information, don't hesitate to drop me a line at **feliu.ren@gmail.com**
+
+- 💻 For a deep dive into what I've done in the past, feel free to check out  <a href="https://felicia-portfolio.netlify.app/" target="blank"> my portfolio</a>. I'm looking forward to connecting with you!
 
 
