@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Felicia</a></h1>
+<h1 align="center">Hi 👋, I'm Felicia</h1>
 <div align="center">
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/felicia-fel/) &nbsp;
@@ -24,4 +24,19 @@
 
 - 💻 For a deep dive into what I've done in the past, feel free to check out  <a href="https://felicia-portfolio.netlify.app/" target="blank"> my portfolio</a>. I'm looking forward to connecting with you!
 
+<div align="center">
+<h1>👨🏻‍💻 My Tech Stack:</h1>
 
+
+[![Next.js, apollo,graphql, bootstrap, Node.js,docker,heroku,mongodb, JavaScript, TypeScript, figma, mysql, tailwind, prisma, react](https://skillicons.dev/icons?i=next,apollo,graphql,bootstrap,nodejs,docker,heroku,mongodb,js,ts,figma,mysql,tailwind,prisma,react)](https://skillicons.dev)
+
+<br/>
+
+<h1> 🏆 My Stats:</h1>
+
+<p>
+    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=applescan&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
+    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=applescan&layout=compact&theme=dark" />&nbsp;&nbsp;
+</p>
+
+</div>
