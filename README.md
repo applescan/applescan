@@ -14,11 +14,9 @@
 
 - 🌱 As a tech enthusiast, I'm always ready to learn more! I have a special spot in my heart for Full Stack Web Development, and I am continually finding ways to grow in this area.
 
-- 💁 I find it super rewarding to solve complex problems and love combining design thinking with software development. It's like piecing together a puzzle, and I adore it! 
+- 💁 I find it incredibly rewarding to tackle complex problems and thrive on the challenge of software development. It feels like solving a puzzle, and I absolutely love it!
 
-- ✅ I believe my strengths can help make our tech world a friendlier place. I'm keen on smoothing out the communication bumps between designers and developers, and I can't wait to create fantastic products that the end-users will love.
-
-- 🎯 When it comes to design, I always put myself in the user's shoes. I want to understand their needs and find the most straightforward way to help them reach their goals.
+- ✅ I believe my strengths can significantly contribute to making the tech world more user-friendly. I'm all about enhancing communication within teams to build amazing products that end-users will adore. I can't wait to dive in and start creating solutions that make everyone's life a bit easier.
 
 - 📫 If you want to chat or need more information, don't hesitate to drop me a line at **feliu.ren@gmail.com**
 
