@@ -10,8 +10,6 @@
 
 <br/>
 
-- 🔭 I’m currently working for <a href="https://generatezero.com/" target="blank">Generate Zero</a>, where I get to put all my software engineering skills to the test and help drive innovation.
-
 - 🌱 As a tech enthusiast, I'm always ready to learn more! I have a special spot in my heart for Full Stack Web Development, and I am continually finding ways to grow in this area.
 
 - 💁 I find it incredibly rewarding to tackle complex problems and thrive on the challenge of software development. It feels like solving a puzzle, and I absolutely love it!
