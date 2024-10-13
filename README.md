@@ -6,7 +6,7 @@
 [![Gmail](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/applescan/)
 
 </div>
-<h3 align="center">I'm a versatile software engineer with a wide range of skills and a passion for crafting exceptional web applications. I have expertise in JavaScript, React, Node.js, SQL, Next.js, TypeScript, tRPC and Prisma.</h3>
+<h3 align="center">I'm a versatile software engineer with a wide range of skills and a passion for crafting exceptional web applications. I have expertise in React, Node.js, SQL, Next.js, TypeScript, tRPC and Prisma.</h3>
 
 <br/>
 
