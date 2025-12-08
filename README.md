@@ -3,7 +3,6 @@
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/felicia-fel/) &nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:feliu.ren@gmail.com?subject=Hello%20Fel,%20From%20Github) &nbsp;
-[![Gmail](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/applescan/)
 
 </div>
 <h3 align="center">I'm a versatile software engineer with a wide range of skills and a passion for crafting exceptional web applications. I have expertise in React, Node.js, SQL, Next.js, TypeScript, tRPC and Prisma.</h3>
