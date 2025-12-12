@@ -25,13 +25,4 @@
 
 [![Next.js, apollo,graphql, bootstrap, Node.js,docker,heroku,mongodb, JavaScript, TypeScript, figma, mysql, tailwind, prisma, react](https://skillicons.dev/icons?i=next,apollo,graphql,bootstrap,nodejs,docker,heroku,mongodb,js,ts,figma,mysql,tailwind,prisma,react)](https://skillicons.dev)
 
-<br/>
-
-<h1> 🏆 My Stats:</h1>
-
-<p>
-    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=applescan&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
-    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=applescan&layout=compact&theme=dark" />&nbsp;&nbsp;
-</p>
-
 </div>
